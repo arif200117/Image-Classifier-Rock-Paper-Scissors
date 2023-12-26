@@ -1,7 +1,8 @@
 # Image-Classifier-Rock-Paper-Scissors
 Submission Belajar Machine Learning untuk Pemula - Dicoding  
-Author : Arif Putera Wijaya
-
+Nama : Arif Putera Wijaya
+Email : arifputera2001@gmail.com
+domisili : Makassar
 Dataset : Rock Paper Scissors
 Total Images : 2188
 
